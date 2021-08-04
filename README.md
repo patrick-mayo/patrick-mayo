@@ -10,7 +10,6 @@
 - Swift
 - Azure DevOps
 - Terraform
-- Soldering (because, why not?)
 
 📫 How to reach me ...
 Hit me up at patrickmayo@churchofjesuschrist.org
