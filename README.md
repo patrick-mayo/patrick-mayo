@@ -1,15 +1,4 @@
-👋🏻 Hi, I’m @patrick-mayo, System Engineer 3 on the Authentication team, handling DevOps.
-
-👀 I’m interested in...
-- Apple, macOS, iOS, and Swift
-- Automating all the things!
-- Vintage Sega and Apple hardware and software
-
-🌱 I’m currently learning...
-- Python
-- Swift
-- Azure DevOps
-- Terraform
+👋🏻 Hi, I’m @patrick-mayo, an iOS and iPadOS software developer.
 
 📫 How to reach me ...
 Hit me up at patrickmayo@churchofjesuschrist.org
